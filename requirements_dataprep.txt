@@ -1,0 +1,10 @@
+geopandas
+fiona
+shapely
+contextily
+geopy
+pygbif
+earthengine-api
+xarray
+netCDF4
+xlsxwriter

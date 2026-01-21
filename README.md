@@ -55,6 +55,12 @@ The final dataset is already prepared and stored in the dataset/ folder. If you 
 
 * Download the Copernicus Land Cover dataset from the link: https://cds.climate.copernicus.eu/datasets/satellite-land-cover?tab=download&slug=satellite-land-cover
  This file is large in size. After downloading, place it inside the dataprep/ folder before running Dataset_Preparation.ipynb.
+* Download the Climate Data from the link: https://www.worldclim.org/data/monthlywth.html
+  This file is large in size. After downloading, place it inside the dataprep/ folder before running Dataset_Preparation.ipynb.
+* Download the Global Administrative Areas Data from the link: https://gadm.org/download_country.html
+  This file is large in size. After downloading, place it inside the dataprep/ folder before running Dataset_Preparation.ipynb.
+* Download the Global Ocean and seas Data from the link: https://www.marineregions.org/download_file.php?name=GOaS_v1_20211214.zip
+  This file is large in size. After downloading, place it inside the dataprep/ folder before running Dataset_Preparation.ipynb.
 * Open Dataset_Preparation.ipynb
 * Run the notebook cells
 * It uses files inside the dataprep/ folder to recreate the processed dataset.
